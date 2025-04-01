@@ -1,4 +1,6 @@
-# Nadpis
+# Použité funkce:
+
+
 1. len(predmety) – Vrátí počet prvků v seznamu predmety.
 
 
